@@ -1,0 +1,25 @@
+.section-1 {
+  text-align: center;
+  background-color: var(--gray-light);
+}
+
+.section-1 h2,
+.section-1 h3 {
+  text-transform: uppercase;
+}
+
+.section-1 h3 {
+  font-weight: bold;
+  color: var(--gray-dark);
+}
+
+@media (min-width: 800px) {
+  .section-1 .container {
+  }
+
+  .section-1 .headline {
+  }
+
+  .section-1 p:nth-of-type(1) {
+  }
+}

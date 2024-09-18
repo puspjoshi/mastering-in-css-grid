@@ -1,0 +1,27 @@
+.section-5 .headline,
+.section-5 .article {
+  text-align: center;
+}
+
+.section-5 .title {
+  color: var(--black);
+  letter-spacing: 5px;
+}
+
+.section-5 .cta {
+  background-color: var(--pink-dark);
+}
+
+@media (min-width: 800px) {
+  .section-5 .article {
+  }
+
+  .section-5 img {
+  }
+
+  .section-5 .title {
+  }
+
+  .section-5 .cta {
+  }
+}
